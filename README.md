@@ -1,3 +1,3 @@
-<p>### Hi there 👋</p>
+### Hi there 👋
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sansue&show_icons=true&theme=github_dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sansue&hide_progress=true)
